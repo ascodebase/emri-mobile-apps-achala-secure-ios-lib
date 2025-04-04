@@ -1,6 +1,0 @@
-framework module achalasecurelib2 {
-  umbrella header "achalasecurelib2.h"
-  export *
-
-  module * { export * }
-}
