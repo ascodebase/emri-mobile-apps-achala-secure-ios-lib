@@ -3,10 +3,10 @@ Pod::Spec.new do |s|
   s.version          = '1.0.0'
   s.summary          = 'A secure library for face detection using Google ML Kit and TensorFlow Lite.'
   s.description      = 'A secure library that provides face detection capabilities using Google ML Kit and TensorFlow Lite.'
-  s.homepage         = 'https://github.com/kimsHOS/achalasecurelib2'
+  s.homepage         = 'https://github.com/ascodebase/emri-mobile-apps-achala-secure-ios-lib'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Your Name' => 'your.email@example.com' }
-  s.source           = { :git => 'https://github.com/kimsHOS/achalasecurelib2.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/ascodebase/emri-mobile-apps-achala-secure-ios-lib.git', :tag => s.version.to_s }
 
   # ✅ Platform (Device-only)
   s.platform = :ios, '15.5'
